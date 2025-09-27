@@ -9,6 +9,7 @@ Originally made to go together with the [Sovol SV08 Mainline guide](https://gith
 
 All this is made with the BTT Eddy *USB version* in mind. Use SSH to your printer to run the commands.
 
+NOTE: If using eddy DUO be sure it's set to USB, NOT CAN! You will not see eddy show up as a usb device otherwise.
 
 ## INSTALL KATAPULT
 First, obviously, we have to install *Katapult* if you haven't done so already.
